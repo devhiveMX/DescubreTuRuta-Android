@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.com.sct.checkyourrute.MainActivity" >
+ 
+    <item
+        android:id="@+id/change_view"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom|withText"
+        android:title="Satelite"
+        app:showAsAction="always"/>
+
+	
+        <item
+        android:id="@+id/trace_route"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="@string/action_trace_route"
+        app:showAsAction="always"/>
+
+    
+
+</menu>

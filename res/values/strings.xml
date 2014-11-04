@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Main -->
+    <string name="app_name">Tr@za tu ruta</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_trace_route">trace</string>
+    <!-- Activities Names -->
+    <string name="title_activity_consult_from_to">ConsultFromToActivity</string>
+    <!-- Consult -->
+    <string name="consult_from_to">Consultar Origen Destino</string>
+    <string name="consult_between_points">Consulta entre puntos</string>
+    <!-- Consult from to -->
+    <string name="consult_from_to_txt_from">Origen</string>
+    <string name="consult_from_to_txt_to">Destino</string>
+    <string name="consult_from_to_txt_consult">Consultar</string>
+    <string name="title_activity_consult_between_points">ConsultBetweenPointsActivity</string>
+
+</resources>
